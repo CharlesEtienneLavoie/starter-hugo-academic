@@ -1,0 +1,23 @@
+# Theme metadata
+name = "my_theme"
+
+[light]
+  # Primary
+  primary = "#1565c0" #"#1565c0" 
+
+  # Menu
+  menu_primary = "#fff" #"#8d49ff" 
+  menu_text = "#34495e"
+  menu_text_active = "#2962ff"
+  menu_title = "#2b2b2b"
+
+  # Home sections
+  home_section_odd =  "rgb(255, 255, 255)" #"#0d103a" # dark nquerio purple
+  home_section_even = "rgb(247, 247, 247)" #"#8d49ff" # light nquerio purple
+
+[dark]
+  # Primary
+  primary = "#1565c0" #"#8d49ff"  #
+
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
